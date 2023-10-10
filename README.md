@@ -1,3 +1,27 @@
+App from the React Native course
+
+Online products catalog
+
+This uses a custom DB using MongoDB
+This uses a custom backend deployed using heroku https://cafe-rn-tutorial-f6874a0273f2.herokuapp.com/api
+
+App Features:
+- All data fetched from the herokuapp BE
+- User creation and login
+- Products list
+- Product creation
+- Product edition
+- Image and data downloading/ uploading
+
+[VIDEO HERE](https://drive.google.com/file/d/1EHoYxW_uUDKIpYZSjpuxibROUFbQE_8B/view?usp=drive_link)
+
+
+<img width="530" alt="Screenshot 2023-10-10 at 14 18 59" src="https://github.com/leoCarrillo-BTS/RN_productos/assets/60411044/e3fca43c-3c66-4e9c-ac5d-ead863e392e9">
+<img width="532" alt="Screenshot 2023-10-10 at 14 19 08" src="https://github.com/leoCarrillo-BTS/RN_productos/assets/60411044/60c691f7-ce17-4fec-98fb-cdbd156492bc">
+<img width="533" alt="Screenshot 2023-10-10 at 14 19 21" src="https://github.com/leoCarrillo-BTS/RN_productos/assets/60411044/131bef2e-05ba-4b45-9c00-7f8f4ff33e26">
+<img width="534" alt="Screenshot 2023-10-10 at 14 19 37" src="https://github.com/leoCarrillo-BTS/RN_productos/assets/60411044/9e48d8ac-70ae-4277-b3f1-5706a7f55f1e">
+
+----
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started

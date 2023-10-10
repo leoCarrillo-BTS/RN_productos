@@ -16,10 +16,13 @@ App Features:
 [VIDEO HERE](https://drive.google.com/file/d/1EHoYxW_uUDKIpYZSjpuxibROUFbQE_8B/view?usp=drive_link)
 
 
-<img width="530" alt="Screenshot 2023-10-10 at 14 18 59" src="https://github.com/leoCarrillo-BTS/RN_productos/assets/60411044/e3fca43c-3c66-4e9c-ac5d-ead863e392e9">
-<img width="532" alt="Screenshot 2023-10-10 at 14 19 08" src="https://github.com/leoCarrillo-BTS/RN_productos/assets/60411044/60c691f7-ce17-4fec-98fb-cdbd156492bc">
-<img width="533" alt="Screenshot 2023-10-10 at 14 19 21" src="https://github.com/leoCarrillo-BTS/RN_productos/assets/60411044/131bef2e-05ba-4b45-9c00-7f8f4ff33e26">
-<img width="534" alt="Screenshot 2023-10-10 at 14 19 37" src="https://github.com/leoCarrillo-BTS/RN_productos/assets/60411044/9e48d8ac-70ae-4277-b3f1-5706a7f55f1e">
+<img width="530" alt="Screenshot 2023-10-10 at 14 18 59" src="https://github.com/leoCarrillo-BTS/RN_productos/assets/60411044/10f933bb-ced7-484b-b970-54fd53f70bcf">
+
+<img width="532" alt="Screenshot 2023-10-10 at 14 19 08" src="https://github.com/leoCarrillo-BTS/RN_productos/assets/60411044/984f76a8-5c40-4fce-984b-f6854bfde55e">
+
+<img width="533" alt="Screenshot 2023-10-10 at 14 19 21" src="https://github.com/leoCarrillo-BTS/RN_productos/assets/60411044/41f6891d-4ec8-4d5f-b723-220590e7b3d0">
+
+<img width="539" alt="Screenshot 2023-10-10 at 14 19 29" src="https://github.com/leoCarrillo-BTS/RN_productos/assets/60411044/11662f57-0b24-4f31-81b3-7f3c95ec4553">
 
 ----
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
